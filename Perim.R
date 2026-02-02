@@ -7,7 +7,7 @@ PerimetroCirculo <- function(r){
 }
 
 PerimetroRectangulo <- function(l,L){
-  return(2*l+2*L)
+  return(2*(l+L)
 }
 
 pi <- 3.14159
