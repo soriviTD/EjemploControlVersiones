@@ -29,3 +29,9 @@ base <- 2
 Area <- base * altura / 2
 ```
 
+```{r}
+#Área rectángulo
+altura <- 3
+base <- 2
+Area <- base * altura
+```
