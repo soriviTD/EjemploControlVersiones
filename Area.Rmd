@@ -1,0 +1,17 @@
+---
+title: "Área del círculo"
+author: "Sofia Rivera Vidal"
+date: "2026-02-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+r <- 0.5
+Area <- pi*r**2
+```
