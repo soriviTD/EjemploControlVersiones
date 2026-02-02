@@ -35,3 +35,11 @@ altura <- 3
 base <- 2
 Area <- base * altura
 ```
+
+```{r}
+#Área trapecio
+b <- 3
+B <- 2
+H <- 2
+Area <- (b+B)*h/2
+```
