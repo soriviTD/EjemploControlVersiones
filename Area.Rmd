@@ -19,5 +19,12 @@ Area <- pi*r**2
 ```{r}
 #Área cuadrado
 lado <- 3
-Area <- 3**2
+Area <- lado**2
+```
+
+```{r}
+#Área triángulo
+altura <- 3
+base <- 2
+Area <- base * altura / 2
 ```
